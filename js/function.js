@@ -1,5 +1,7 @@
 "use strict";
 
+//! Функції частина 
+
 // function foo() {
 //     console.log("turbo");
 // };

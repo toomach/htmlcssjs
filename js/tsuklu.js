@@ -2,7 +2,7 @@
 
 //--------------------------------- for --------------------------------
 
-const str = "Hello";
+// const str = "Hello";
 
 // for (let i = 0; i < str.length; i++) {  // перебирає з початку до кінця
 // console.log(str[i]);
