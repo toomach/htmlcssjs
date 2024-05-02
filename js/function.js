@@ -129,11 +129,12 @@
 //Стек викликів не безмежний, йому відводиться кінцевий обсяг пам'яті. Іноді в консолі можна побачити помилку "Uncaught RangeError: Maximum call stack size exceeded" — переповнення стека (stack overflow).
 
 
+function filterArray(numbers, value) {
+    
 
+}
 
-
-
-
+filterArray([1, 2, 3, 4, 5], 3)
 
 
 
